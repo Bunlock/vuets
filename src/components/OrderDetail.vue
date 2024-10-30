@@ -1,3 +1,8 @@
 <script setup lang="ts"></script>
 
-<template>Order!</template>
+<template>
+  Order!
+  <main>
+    <OrderDetail />
+  </main>
+</template>
